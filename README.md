@@ -51,3 +51,6 @@ bun x vite build
    entity: sun.sun
    ```
    > Note: Be sure to open Home Assistant using it's local address if your component does not seem to update after inserting a new version.
+
+
+<img width="1258" alt="image" src="https://github.com/samuelthng/homeassistant-react-lovelace/assets/19360561/236bcbb1-c2f3-4495-9694-2a2944b0ff44">
